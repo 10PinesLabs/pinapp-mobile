@@ -1,2 +1,2 @@
-# pinapp-mobile
-Aplicacion Mobil para la votacion de roots
+# pinapp-site
+Pagina Web para la votacion de roots
