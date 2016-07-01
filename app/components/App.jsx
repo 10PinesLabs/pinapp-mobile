@@ -52,8 +52,6 @@ export default class App extends React.Component {
     );
   }
 
-
-
   updatePropuestaActual = (id, e) => {
     e.stopPropagation();
     this.setState({
